@@ -1,0 +1,6 @@
+
+Best score of generation 0 is 208.0
+Traceback (most recent call last):
+  File "C:\Users\mor35\Documents\2048_ea\new_version\main.py", line 52, in <module>
+    generation[idx] = Agent()
+IndexError: list assignment index out of range

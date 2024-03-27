@@ -1,0 +1,39 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.10.11",
+    "heartbeatAt": "2024-02-24T18:32:38.728548",
+    "startedAt": "2024-02-24T18:32:37.888408",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\mor35\\Documents\\2048_ea\\new_version\\main.py",
+    "codePathLocal": "main.py",
+    "codePath": "main.py",
+    "host": "DESKTOP-SV6ERN2",
+    "username": "mor35",
+    "executable": "C:\\Users\\mor35\\Documents\\2048_ea\\venv\\Scripts\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1298.0,
+        "min": 0.0,
+        "max": 1498.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1298.0,
+            "min": 0.0,
+            "max": 1498.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 461.82714462280273,
+            "used": 355.7041130065918
+        }
+    },
+    "memory": {
+        "total": 7.7727813720703125
+    }
+}
